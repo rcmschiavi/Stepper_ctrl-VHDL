@@ -1,0 +1,89 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "clk_step",
+					"strict" : false
+				},
+				{
+					"name" : "dir",
+					"strict" : false
+				},
+				{
+					"name" : "velocity_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "velocity_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "velocity_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "velocity_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk_50Mhz",
+					"strict" : false
+				},
+				{
+					"name" : "dir_in",
+					"strict" : false
+				},
+				{
+					"name" : "end_stop_p",
+					"strict" : false
+				},
+				{
+					"name" : "end_stop_m",
+					"strict" : false
+				},
+				{
+					"name" : "distance_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "distance_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "distance_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "distance_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "distance_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "distance_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "distance_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "distance_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "distance_in[8]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

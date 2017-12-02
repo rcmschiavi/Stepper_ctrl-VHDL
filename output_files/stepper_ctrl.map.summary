@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sat Dec 02 17:48:08 2017
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : stepper_ctrl
+Top-level Entity Name : stepper_ctrl
+Family : MAX 10
+Total logic elements : 377
+    Total combinational functions : 377
+    Dedicated logic registers : 61
+Total registers : 61
+Total pins : 21
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
